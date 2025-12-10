@@ -4,6 +4,8 @@ BlogCafe es un sitio web informativo dedicado al mundo del café. Incluye un blo
 
 <h1 style="font-size:40px"><b>📁 Estructura del Proyecto</b></h1>
 
+
+```
 BLOGCAFE/
 │── .vscode/
 │     └── settings.json
@@ -25,6 +27,7 @@ BLOGCAFE/
 │── nosotros.html
 │
 └── README.md
+```
 
 <h1 style="font-size:40px"><b>🌐 Páginas del Sitio</b></h1>
 
