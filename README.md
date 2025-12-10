@@ -3,6 +3,7 @@
 BlogCafe es un sitio web informativo dedicado al mundo del café. Incluye un blog, páginas de cursos, una sección de contacto y contenido visual atractivo. El proyecto está construido con HTML, CSS y JavaScript, manteniendo una estructura clara y organizada.
 
 <h1 style="font-size:40px"><b>📁 Estructura del Proyecto</b></h1>
+
 BLOGCAFE/
 │── .vscode/
 │     └── settings.json
